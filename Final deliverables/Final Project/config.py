@@ -1,8 +1,0 @@
-DATABASE="<ypur db>"
-HOSTNAME="<your hostname>"
-PORT="<your port>"
-SECURITY="SSL"
-SSLServerCertificate="<your certificate>"
-UID="<your UID>"
-PWD="<your PASSWORD>"
-API_KEY="<your API key>"
